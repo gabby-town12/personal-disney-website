@@ -77,6 +77,10 @@ img {
 }
 .style {
   text-decoration-line: overline;
+}
+.caption {
+  font-size: 10px;
+}
   line-height: 0px;
   font-size: 29px;
 }
