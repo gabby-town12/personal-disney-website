@@ -1,0 +1,83 @@
+body {
+  background: mintcream;
+}
+p {
+  color: black;
+  font-size: 21px;
+  text-align: center;
+  font-family: serif;
+}
+h1 {
+  font-weight: bold;
+  color: midnightblue;
+  font-family: cursive;
+  font-size: 42px;
+  text-align: center;
+}
+a {
+  color: black;
+  font-family:cursive;
+  font-size: 15.5px;
+}
+li {
+  font-weight: bold;
+  font-size: 20px;
+  color: midnightblue; 
+}
+img {
+  width: 885px;
+  margin-left: 250px;
+  border-radius: 18px;
+  border-style: double;
+  border-color: midnightblue;
+  border-width: thick;
+}
+.Disney {
+  font-family: Rye, cursive;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.small {
+  width: 350px;
+  margin-left: auto;
+  border-style: dotted;
+  border-color: rgb(176, 96, 181);
+}
+.medium {
+  width: 275px;
+  margin: auto;
+  border-style: dotted;
+  border-color: rgb(139, 81, 143);
+}
+.mini{
+  width: 340px;
+  margin: auto;
+  border-style: dotted;
+  border-color: rgb(139, 81, 143);
+}
+.Info {
+  text-align: left;
+  margin: 28px;
+  margin-left: 2px;
+  width: 860px;
+  background: rgb(202, 220, 237);
+  font-size: 22.3px;
+  font-family: 'Cardo',sans-serif;
+  font-weight: normal;
+}
+.credit { 
+  text-align: left;
+  font-size: 19px;
+}
+.links {
+  margin:6px;
+  background-color: rgb(202, 220, 237);
+  font-family: Rye, cursive;
+}
+.excited {
+  font-weight: bold;
+  color: black;
+}

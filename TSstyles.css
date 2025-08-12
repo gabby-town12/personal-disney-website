@@ -1,0 +1,60 @@
+body {
+  background: mintcream;
+}
+p {
+  color: black;
+  font-size: 21px;
+  font-family: serif;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+  color: midnightblue;
+  font-family: cursive;
+  font-size: 42px;
+  text-align: center
+}
+a {
+  color: black;
+  font-family:cursive;
+  font-size: 15.5px;
+}
+li {
+  font-weight: bold;
+  font-size: 18px;
+  color: midnightblue;
+  border-bottom-style: double;
+  border-bottom-color: rgb(90, 112, 176);
+}
+img {
+  width: 725px;
+  margin-left: 350px;
+  border-style: dotted;
+  border-radius: 50px;
+  border-color: black;
+  border-width: thick;
+}
+.Disney {
+  font-family: Rye, cursive;
+}
+.links {
+  margin:6px;
+  background-color: rgb(202, 220, 237);
+  font-family: Rye, cursive;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Sums {
+  text-align: left;
+  margin: 28px;
+  margin-left: 2px;
+  width: 775px;
+  background: rgb(202, 220, 237);
+}
+.excited {
+  font-weight: bold;
+  color: black;
+}

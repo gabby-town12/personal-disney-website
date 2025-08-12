@@ -1,0 +1,91 @@
+body {
+  background: mintcream;
+}
+p {
+  color: black;
+  font-size: 21px;
+  font-family: serif;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+  color: midnightblue;
+  font-family: cursive;
+  font-size: 42px;
+  text-align: center;
+}
+a {
+  color: black;
+  font-family:cursive;
+  font-size: 15.5px;
+}
+li {
+  font-weight: bold;
+  font-size: 20px;
+  color: midnightblue;
+  width: 500px;
+}
+img {
+  width: 620px;
+  margin-left: 389px;
+  border-radius: 30px;
+  border-style: groove;
+  border-width: thick;
+  border-color: midnightblue;
+}
+.Disney {
+  font-family: Rye, cursive;
+}
+.Info {
+  text-align: left;
+  margin: 28px;
+  margin-left: 2px;
+  width: 775px;
+  background: rgb(202, 220, 237);
+  font-size: 22.3px;
+  font-family: 'Cardo',sans-serif;
+  font-weight: normal;
+}
+.credit { 
+  text-align: left;
+  font-size: 19px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.small {
+  width: 350px;
+  margin-left: auto;
+  border-style: dotted;
+  border-color: rgb(139, 81, 143);
+}
+.medium {
+  width: 275px;
+  margin: auto;
+  border-style: dotted;
+  border-color: rgb(139, 81, 143);
+}
+.mini{
+  width: 260px;
+  margin: auto;
+  border-style: dotted;
+  border-color: rgb(139, 81, 143);
+}
+.olaf {
+  margin: auto;
+  border-style: dotted;
+  border-color: rgb(139, 81, 143);
+  max-width: 450px;
+  height: 235px;
+}
+.links {
+  margin:6px;
+  background-color: rgb(202, 220, 237);
+  font-family: Rye, cursive;
+}
+.excited {
+  font-weight: bold;
+  color: black;
+}

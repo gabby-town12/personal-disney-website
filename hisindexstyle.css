@@ -1,0 +1,82 @@
+body {
+  background:mintcream;
+}
+p {
+  color: black;
+  font-size: 21px;
+  font-family: serif;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+  font-size: 54px; 
+  font-family: cursive;
+  color: midnightblue;
+  text-align: center; 
+}
+.Disney {
+  font-family: Rye, cursive;
+}
+h2 { 
+  text-align: center;
+  font-family: cursive;
+  font-size: 28px;
+}
+a {
+ color: black;
+ font-family:cursive;
+ font-size: 15.5px;
+}
+img {
+  display: flex;
+  width: 800px;
+}
+.links {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin:6px;
+  background-color: rgb(202, 220, 237);
+  font-family: Rye, cursive;
+}
+.text {
+  font-size: 21px;
+  margin-right: 90px;
+  margin-left: 90px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.History {
+  font-family: Rye, cursive;
+  font-size: 42px;
+}
+.subtopic {
+  font-family:  Rye, cursive;
+  font-size: 32px;
+  color: midnightblue;
+  text-align: center;
+}
+.design {
+  border-top-style: double;
+  padding-top: 20px;
+  border-top-color: rgb(6, 104, 143);
+}
+.info {
+  margin-left: 220px;
+  margin-right: 220px;
+  font-size: 22px;
+  color: rgb(56, 58, 59);
+  font-weight: bold;
+}
+.excited {
+  font-weight: bold;
+  color: black;
+}
+.style {
+  text-decoration-line: overline;
+  line-height: 0px;
+  font-size: 29px;
+}
